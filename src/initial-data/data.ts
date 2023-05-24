@@ -1,11 +1,13 @@
+export type Item = {
+	id: number;
+	product: string;
+	price: number;
+};
+
 type Data = {
 	name: string;
 	code: string;
-	items: Array<{
-		id: number;
-		product: string;
-		price: number;
-	}>;
+	items: Item[];
 };
 
 export const data: Data = {

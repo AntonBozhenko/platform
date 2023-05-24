@@ -1,6 +1,6 @@
 # Platform
 
-Демка: 
+Демка: https://antonbozhenko.github.io/platform-demo/
 
 <h3>Установка и запуск (локально)</h3>
 

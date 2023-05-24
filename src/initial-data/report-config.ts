@@ -1,4 +1,4 @@
-type Colum = {
+export type Colum = {
 	title: string;
 	dataIndex: string;
 	align: 'left' | 'right' | 'center';

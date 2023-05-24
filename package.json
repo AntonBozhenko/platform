@@ -1,7 +1,7 @@
 {
   "name": "platform",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ant-design/pro-table": "^3.6.11",
     "@types/node": "^16.18.32",
